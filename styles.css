@@ -1,0 +1,19 @@
+.main-header {
+  color: red;
+  font-size: 30;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight:500;
+}
+
+.my-buttons{
+
+  background-color: aqua;
+  border-width: 3px;
+  border-color: blue;
+  border-radius: 3px;
+  padding:10px 20px;
+  margin: auto;
+
+  cursor: pointer;
+
+}
